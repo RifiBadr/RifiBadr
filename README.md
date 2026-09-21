@@ -1,4 +1,4 @@
-### Hi, I'm Badr 👋
+### Hi, I'm Badr Rifi👋
 
 **MSc Artificial Intelligence · BSc Computer Science**
 I build practical, data-driven AI, with a focus on **NLP** and **applied LLM / RAG systems** — models that actually run in production, not just in a notebook.
