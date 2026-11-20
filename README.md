@@ -42,7 +42,6 @@ I build practical, data-driven AI, with a focus on **NLP** and **applied LLM / R
 |---|---|---|
 | 🩺 **HealthMate AI** | Symptom-based diagnostic chatbot — NLP pipeline + neural net + web UI | Python · TensorFlow · spaCy |
 | 🧠 **Facial Emotion Recognition** | CNN that classifies emotions from face images | Python · TensorFlow · OpenCV |
-| 📰 **Fake News Detection** | ML text-classification pipeline for misinformation | Python · scikit-learn · NLTK |
 | 🐦 **Twitter Sentiment Analysis** | Real-time tweet sentiment classifier | Python · scikit-learn · Streamlit |
 
 ---
