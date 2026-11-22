@@ -38,16 +38,18 @@ I build practical, data-driven AI, with a focus on **NLP** and **applied LLM / R
 
 ### 🚀 Featured projects
 
-| Project | What it does | Stack |
+| Project | What it does | Highlights |
 |---|---|---|
 | 📊 **[FinSight AI](https://github.com/RifiBadr/finsight-ai)** | Answers questions about company annual reports with page-level citations | Evaluated on FinanceBench: retrieval Hit@5 **35% → 69%** through error analysis and query expansion |
 | 🛡️ **[FraudShield](https://github.com/RifiBadr/fraudshield)** | Real-time fraud scoring on 6.3M transactions with explanations for every alert | Time-based validation, leakage checks, cost-based threshold, SHAP, MLflow, drift monitoring |
 | 🩺 **[HealthMate AI](https://github.com/RifiBadr/healthmate-ai)** | Chatbot that predicts likely conditions from symptoms described in plain English | 100 diseases, **89% test accuracy, ~98% top-3**, NLP symptom extraction, Gradio UI |
 
+#### More projects
+
+| Project | What it does | Stack |
+|---|---|---|
 | 🧠 **Facial Emotion Recognition** | CNN that classifies emotions from face images | Python · TensorFlow · OpenCV |
 | 🐦 **Twitter Sentiment Analysis** | Real-time tweet sentiment classifier | Python · scikit-learn · Streamlit |
-
----
 
 ### 📈 Building next
 An applied **RAG assistant** with retrieval evaluation, and an **end-to-end ML service** (API + Docker + tests).
