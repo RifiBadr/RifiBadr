@@ -6,7 +6,7 @@ I build practical, data-driven AI, with a focus on **NLP** and **applied LLM / R
 - 🔭 &nbsp;Building and shipping ML projects while I look for **junior / graduate AI, ML & Data roles** in London / the UK
 - 🌱 &nbsp;Going deep right now on **LLM apps, RAG, and deployment** (APIs, Docker, evaluation)
 - 💬 &nbsp;Ask me about NLP, text classification, and end-to-end ML
-- 📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/badr-rifi-a8350b213/) &nbsp;·&nbsp; rifi.badr00@gmail.com
+- 📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/badr-rifi-a8350b213/) &nbsp;·&nbsp; rifibadr.pro@gmail.com
 
 ---
 
