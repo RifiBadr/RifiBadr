@@ -51,5 +51,29 @@ I build practical, data-driven AI, with a focus on **NLP** and **applied LLM / R
 | 🧠 **Facial Emotion Recognition** | CNN that classifies emotions from face images | Python · TensorFlow · OpenCV |
 | 🐦 **Twitter Sentiment Analysis** | Real-time tweet sentiment classifier | Python · scikit-learn · Streamlit |
 
-### 📈 Building next
-An applied **RAG assistant** with retrieval evaluation, and an **end-to-end ML service** (API + Docker + tests).
+### 🛠️ Tech I work with
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**ML & Deep Learning** &nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**NLP & LLMs** &nbsp;
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-hybrid%20search-6250D6?style=flat)
+
+**Data & Deploy** &nbsp;
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
